@@ -52,5 +52,5 @@ if (respuesta == "no") {
   alert("espero poder ayudarte pronto");
 }
 if (respuesta != "si" && respuesta != "no") {
-  alert("respuesta no valida");
+  alert("respuesta no valida, por favor vuelva mas tarde");
 }
